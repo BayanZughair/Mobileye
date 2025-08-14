@@ -1,0 +1,78 @@
+{
+  "protocols_by_version": {
+    "Version1": {
+      "id_type": "dec",
+      "protocols": [
+        "1", "66", "82", "88", "89", "95", "97", "99", "102", "103", "104",
+        "105", "113", "116", "118", "119", "124", "125", "126", "127",
+        "135", "138", "140", "141", "142", "143", "154", "85", "157",
+        "98", "222", "120", "83", "158", "121", "90", "81", "73", "246",
+        "245", "91"
+      ]
+    },
+    "Version2": {
+      "id_type": "hex",
+      "protocols": [
+        "0x1", "0x42", "0x52", "0x56", "0x57", "0x58", "0x59", "0x74", "0x76",
+        "0x77", "0x7c", "0x7d", "0x8a", "0x8c", "0x8d", "0x8e", "0x8f", "0x9a",
+        "0x55", "0x9d", "0x9e", "0x79", "0x5a", "0x51", "0x49", "0xf6", "0xf5",
+        "0x5b"
+      ]
+    }
+  },
+  "protocols": {
+    "0x1": {"fps": 1, "dynamic_size": false},
+    "0x42": {"fps": 36, "dynamic_size": false},
+    "0x9d": {"fps": 9, "dynamic_size": true},
+    "0xf5": {"fps": 9, "dynamic_size": true},
+    "0xd9": {"fps": 36, "dynamic_size": false},
+    "0x51": {"fps": 36, "dynamic_size": true},
+    "0x55": {"fps": 9, "dynamic_size": false},
+    "0x9f": {"fps": 9, "dynamic_size": false},
+    "0x8f": {"fps": 18, "dynamic_size": true},
+    "0x69": {"fps": 36, "dynamic_size": true},
+    "0x61": {"fps": 9, "dynamic_size": false},
+    "0x5f": {"fps": 9, "dynamic_size": true},
+    "0x63": {"fps": 9, "dynamic_size": false},
+    "0x65": {"fps": 9, "dynamic_size": false},
+    "0x8a": {"fps": 36, "dynamic_size": false},
+    "0x52": {"fps": 36, "dynamic_size": false},
+    "0x68": {"fps": 36, "dynamic_size": true},
+    "0x59": {"fps": 36, "dynamic_size": false},
+    "0x71": {"fps": 36, "dynamic_size": true},
+    "0x76": {"fps": 36, "dynamic_size": false},
+    "0x77": {"fps": 36, "dynamic_size": false},
+    "0x7c": {"fps": 18, "dynamic_size": false},
+    "0x7e": {"fps": 18, "dynamic_size": true},
+    "0x7f": {"fps": 18, "dynamic_size": true},
+    "0x7d": {"fps": 18, "dynamic_size": true},
+    "0x49": {"fps": 36, "dynamic_size": true},
+    "0x9a": {"fps": 36, "dynamic_size": true},
+    "0x74": {"fps": 36, "dynamic_size": false},
+    "0x56": {"fps": 36, "dynamic_size": true},
+    "0x8d": {"fps": 36, "dynamic_size": true},
+    "0x8e": {"fps": 36, "dynamic_size": true},
+    "0x8c": {"fps": 36, "dynamic_size": true},
+    "0x58": {"fps": 36, "dynamic_size": true},
+    "0x87": {"fps": 36, "dynamic_size": false},
+    "0x57": {"fps": 36, "dynamic_size": true},
+    "0x66": {"fps": 36, "dynamic_size": true},
+    "0x67": {"fps": 36, "dynamic_size": true},
+    "0xf6": {"fps": 36, "dynamic_size": true},
+    "0xde": {"fps": 36, "dynamic_size": true},
+    "0x62": {"fps": 9, "dynamic_size": true},
+    "0x78": {"fps": 36, "dynamic_size": true},
+    "0x5b": {"fps": 36, "dynamic_size": false},
+    "0x53": {"fps": 36, "dynamic_size": false},
+    "0x79": {"fps": 36, "dynamic_size": false},
+    "0x9e": {"fps": 9, "dynamic_size": true},
+    "0x5a": {"fps": 36, "dynamic_size": true},
+    "0x6a": {"fps": 9, "dynamic_size": false},
+    "0xe3": {"fps": 18, "dynamic_size": false},
+    "0x6b": {"fps": 18, "dynamic_size": false},
+    "0x93": {"fps": 36, "dynamic_size": false},
+    "0x94": {"fps": 36, "dynamic_size": false},
+    "0x97": {"fps": 36, "dynamic_size": false},
+    "0x96": {"fps": 36, "dynamic_size": false}
+  }
+}
